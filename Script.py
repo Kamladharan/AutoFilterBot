@@ -5,7 +5,7 @@ I can give any Movie and TV Series to auto filter method. 🥳
 
 All you have to do is add me to a group and give me admin. 😌
 
-I will take care of the rest with out no problem 😃. 😎"""
+I will take care of the rest with out no problem 😎"""
 
     MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
@@ -13,9 +13,9 @@ I will take care of the rest with out no problem 😃. 😎"""
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
     MY_OWNER_TXT = """★ Name: Hansaka Anuhas
-★ Username: @Hansaka_Anuhas
+★ Username: @jithurg
 ★ ID: <code>5493832202</code>
-★ Country: Sri Lanka 🇱🇰"""
+★ Country:India🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
