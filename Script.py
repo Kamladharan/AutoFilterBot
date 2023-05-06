@@ -14,7 +14,7 @@ I will take care of the rest with out no problem 😎"""
 
     MY_OWNER_TXT = """★ Name: JITHU RG
 ★ Username: @jithurg
-★ ID: <code>5493832202</code>
+★ ID: <code>6056548829</code>
 ★ Country:India🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
