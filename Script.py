@@ -7,7 +7,7 @@ All you have to do is add me to a group and give me admin. 😌
 
 I will take care of the rest with out no problem 😎"""
 
-    MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
+    MY_ABOUT_TXT = """★ Server: <a href=https://www.render.com>Render</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
