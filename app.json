@@ -5,7 +5,7 @@
     "keywords": [
       "telegram",
       "auto-filter",
-      "sri-lanka",
+      "india",
       "pyrogram",
       "python",
       "file-index"
@@ -47,7 +47,7 @@
         },
         "AUTH_CHANNEL": {
             "description": "ID of channel. Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
-            "required": false
+            "required": true
         },
         "AUTH_USERS": {
             "description": "ID of users to give access of inline search. Separate multiple users by space.",
