@@ -27,7 +27,7 @@
         },
         "INDEX_CHANNELS": {
             "description": "ID of index channels. Separate multiple IDs by space.",
-            "required": false
+            "required": true
         },
         "ADMINS": {
             "description": "ID of Admins. Separate multiple admins by space.",
